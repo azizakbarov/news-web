@@ -51,11 +51,6 @@
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/(content)/news/[slug]/@modal/(.)image/page.js"
-    ],
-    "/(content)/news/[slug]/image/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(content)/news/[slug]/image/page.js"
     ]
   }
 }
